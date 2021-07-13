@@ -1,4 +1,12 @@
-### Hi there 👋
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=AnLaity&show_icons=true&hide_border=true">
+
+### Hi there 👋 I'm Hope:
+
+💻 BackEndEngineer<br>
+📫 Mail: laughingstock@163.com<br>
+⭐️ From [AnLaity](https://github.com/AnLaity)<br>
+![ViewCount](https://views.whatilearened.today/views/github/Anlaity/Anlaity.svg?cache=remove)
+
 
 <!--
 **AnLaity/AnLaity** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
